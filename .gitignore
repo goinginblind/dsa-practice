@@ -1,0 +1,14 @@
+# Virtual env, py stuff & vscode
+.venv
+.pytest_cache
+.vscode
+__pycache__
+
+# Other files (from textbooks or just too old)
+a2z
+clrs
+grokkin
+todos
+trees-presets
+misc
+
